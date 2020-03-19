@@ -15,6 +15,7 @@
     
 }
 
+
 .header .logo{
     font-size:26px;
     float:left;
@@ -71,7 +72,10 @@
   
 }
 
-
+.main{
+    height:230vh;
+    background-color:#FDF5E6;;
+}
 
 .top-image{
     padding:120px 0;
@@ -101,7 +105,7 @@
       background-color: #FDF5E6;
       padding:20px;
       color: sienna;
-      height:700px;
+    
       
 
 }
@@ -164,7 +168,7 @@ span{
 
 
 .work{
-  padding:30px;
+ 
     background-color: #FDF5E6;
     
     color: sienna;
@@ -181,7 +185,7 @@ span{
 }
 
 .fgn{
-    height:538px;
+   
  
     background-color: #FDF5E6 ;
     color:sienna;
@@ -195,9 +199,7 @@ span{
     text-align: center;
 }
 .contact-form{
-    
-    
-    padding:60px 0;
+
     background-color: #FDF5E6 ;
 
 }
@@ -292,9 +294,8 @@ footer p{
 }
 
 
-.can-hobby-want{
-    height:100px;
-}
+
+
 .space{
     width:100%;
     padding:40px 0;
