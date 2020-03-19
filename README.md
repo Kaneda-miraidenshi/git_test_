@@ -17,4 +17,8 @@ this repository is the first site that i made after learning HTML/CSS
 スクリーンが大きくなった時、文字が小さく見えてしまう
 
 
+## what i found out/自分で気が付いた所
+1)親要素は子要素はインデントしたほうがとても見やすいし、ミスが発見しやすい
+
+
 #### URL: https://kaneda-miraidenshi.github.io/KA-miraidenshi/
