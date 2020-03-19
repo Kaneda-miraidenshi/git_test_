@@ -21,4 +21,4 @@ this repository is the first site that i made after learning HTML/CSS
 1)親要素は子要素はインデントしたほうがとても見やすいし、ミスが発見しやすい
 
 
-#### URL: https://kaneda-miraidenshi.github.io/KA-miraidenshi/
+#### URL: https://kaneda-miraidenshi.github.io/git_test_/.
