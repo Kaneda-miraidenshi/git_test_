@@ -101,12 +101,10 @@
 
 
 .self-intro{
-    
-      background-color: #FDF5E6;
-      padding:20px;
-      color: sienna;
-    
-      
+        height:30%;
+        background-color: #FDF5E6;
+        padding:20px;
+        color: sienna;
 
 }
 
@@ -168,7 +166,7 @@ span{
 
 
 .work{
- 
+    height:25%;
     background-color: #FDF5E6;
     
     color: sienna;
@@ -185,14 +183,11 @@ span{
 }
 
 .fgn{
-   
- 
     background-color: #FDF5E6 ;
     color:sienna;
     padding:40px 0;
     font-family:Arial;
-    ;
-   
+    height:25%;
 }
 
 .fgn-history{
