@@ -15,3 +15,6 @@ this repository is the first site that i made after learning HTML/CSS
 
 ##### 3)when screen is big, font looks too small 
 スクリーンが大きくなった時、文字が小さく見えてしまう
+
+
+#### URL: https://kaneda-miraidenshi.github.io/KA-miraidenshi/
