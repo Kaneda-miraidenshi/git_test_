@@ -1,3 +1,7 @@
+
+
+
+
 @media all and (max-width:1000px){
        
       .top-image h1{
@@ -38,8 +42,13 @@
     .top-image h1{
         font-size:30px;
     }
-    
-    
+    .self-right{
+        padding:0 40px 0 0;
+    }
+
+    .intro-bottom ol{
+        margin-bottom: 20px;
+    }
     .self-intro,.work,.fgn,.contact-form p{
         font-size:15px;
        
