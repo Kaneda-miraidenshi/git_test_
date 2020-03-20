@@ -25,4 +25,4 @@
 
 1)親要素は子要素はインデントしたほうがとても見やすいし、ミスが発見しやすい
 
-URL:
+URL:https://kaneda-miraidenshi.github.io/gyaku-kyujin-site.kaneda/
