@@ -4,7 +4,9 @@
 }
 
 
-
+.wrap{
+    background-color:#FDF5E6 ;
+}
 .header{
     background-color:#A0522D;
     height:57px;
@@ -73,8 +75,11 @@
 }
 
 .main{
-    height:230vh;
-    background-color:#FDF5E6;;
+  
+    background-color:#FDF5E6;
+}
+.main ol,h3{
+    color:sienna;
 }
 
 .top-image{
@@ -100,15 +105,6 @@
 }
 
 
-.self-intro{
-    
-      background-color: #FDF5E6;
-      padding:20px;
-      color: sienna;
-    
-      
-
-}
 
 
 h2{
@@ -118,7 +114,7 @@ h2{
     color:sienna;
     border-bottom:solid 2px sienna;
     letter-spacing:6px;
-
+   
 }
 
 .self-intro img{
@@ -127,8 +123,17 @@ h2{
    
 
 }
-.self-img{
- 
+
+.self-right{
+    display:inline-block;
+    padding:20px 40px 0 0;
+}
+
+.intro-bottom{
+    padding:20px 0;
+}
+.self-left{
+
         width:100%;
         max-width:1170px;
         height: auto;
@@ -168,7 +173,7 @@ span{
 
 
 .work{
- 
+   
     background-color: #FDF5E6;
     
     color: sienna;
@@ -185,13 +190,10 @@ span{
 }
 
 .fgn{
-   
- 
     background-color: #FDF5E6 ;
     color:sienna;
     padding:40px 0;
     font-family:Arial;
-    ;
    
 }
 
@@ -199,7 +201,7 @@ span{
     text-align: center;
 }
 .contact-form{
-
+    padding:20px 0;
     background-color: #FDF5E6 ;
 
 }
@@ -210,7 +212,7 @@ span{
     color: sienna;
     
 }
-input{
+.wide{
     max-width: 1170px;
     width:40%;
     padding:10px 30px;
@@ -237,6 +239,7 @@ textarea{
    margin-top:30px;
     font-size:15px;
     box-shadow:3px 3px rgba(69,34,9,0.3);
+    border-radius:5px;
 }
 .btn:hover{
     background-color:rgb(121, 62, 34);
@@ -296,10 +299,6 @@ footer p{
 
 
 
-.space{
-    width:100%;
-    padding:40px 0;
-}
 .wrap {
 	overflow: hidden;
 }
