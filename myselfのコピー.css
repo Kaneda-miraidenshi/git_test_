@@ -5,7 +5,7 @@
 
 
 .wrap{
-    background-color:#FDF5E6 ;
+    background-color:cornsilk;
 }
 .header{
     background-color:#A0522D;
@@ -45,7 +45,7 @@
 
 
 .header a{
-    color:rgba(255,248,220,1);
+    color:cornsilk;
     text-decoration: none;
     display:block;
     float:left;
