@@ -174,7 +174,7 @@ span{
 
 .work{
    
-    background-color: #FDF5E6;
+    background-color: cornsilk;
     
     color: sienna;
     
@@ -190,7 +190,7 @@ span{
 }
 
 .fgn{
-    background-color: #FDF5E6 ;
+    background-color:cornsilk ;
     color:sienna;
     padding:40px 0;
     font-family:Arial;
@@ -202,7 +202,7 @@ span{
 }
 .contact-form{
     padding:20px 0;
-    background-color: #FDF5E6 ;
+    background-color: cornsilk;
 
 }
 .contact-form p{
@@ -235,7 +235,7 @@ textarea{
 }
 .btn{
     background-color:sienna;
-    color:#fef5e6;
+    color:cornsilk;
    margin-top:30px;
     font-size:15px;
     box-shadow:3px 3px rgba(69,34,9,0.3);
@@ -263,7 +263,7 @@ footer{
   
     height:50px;
     background-color:#A0522D;
-    color:#fef5e6;
+    color:cornsilk;
     font-family:"Arial Black";
     text-align: center;
    
@@ -281,7 +281,7 @@ footer p{
 }
 
 .menu-icon{
-    color:white;
+    color:cornsilk;
     float:right;
     font-size: 50px;
     padding:5px 20px;
