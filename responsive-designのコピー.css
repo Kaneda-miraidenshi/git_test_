@@ -31,9 +31,7 @@
         margin-top:15px;
     }
     
-     .fgn{
-         height:350px;
-     } 
+
      
 }
 
@@ -41,9 +39,6 @@
 {
     .top-image h1{
         font-size:30px;
-    }
-    .self-right{
-        padding:0 40px 0 0;
     }
 
     .intro-bottom ol{
@@ -82,9 +77,8 @@
     }
 
     .fgn,.work{
-        height:300px;
-        padding:45px 30px;
-    } 
+        padding:0 30px;
+    }
     input{
         padding:7px 10px;
 
@@ -93,17 +87,9 @@
        
         font-size: 30px;
         padding:16px 15px;
-      
-    
- 
 }
         .logo p{
             font-size:20px;
-        }
-        .self-intro,.contact-form{
-            height:400px;
-            padding:45px 30px;
-            
         }
         .self-img{
             display:none;
@@ -111,6 +97,11 @@
         .self-intro p{
             width:100%;
         }
-
+        .self-right{
+            padding:0 20px 0 0;
+        }
+        ul{
+            padding-inline-start:0;
+        }
 }
 
