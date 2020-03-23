@@ -10,11 +10,11 @@
 .header{
     background-color:#A0522D;
     height:57px;
-    
+
     width:100%;
 
-    
-    
+
+
 }
 
 
@@ -29,7 +29,7 @@
 }
 
 .header ul{
-    
+
    text-align:center;
    max-width:1170px;
    width:100%;
@@ -57,25 +57,25 @@
     margin:0 15px;
     z-index:10;
     border-radius: 4px;
-   
+
     line-height:33px ;
-   
-  
-    
+
+
+
 }
 
 
 .header a:hover{
-    
+
     cursor:pointer;
     background-color:rgba(69,34,9,1);
-    
-  
-  
+
+
+
 }
 
 .main{
-  
+
     background-color:cornsilk;
 }
 .main ol,h3{
@@ -87,7 +87,7 @@
     background-image:url(trees-4843827_1280.jpg);
     background-size:cover;
     width:100%;
-    
+
 
 
 }
@@ -101,7 +101,7 @@
     letter-spacing:4px;
     opacity:0.8;
 
- 
+
 }
 
 
@@ -114,13 +114,13 @@ h2{
     color:sienna;
     border-bottom:solid 2px sienna;
     letter-spacing:6px;
-   
+
 }
 
 .self-intro img{
     float:left;
     width: 35%;
-   
+
 
 }
 
@@ -137,7 +137,7 @@ h2{
         width:100%;
         max-width:1170px;
         height: auto;
-       
+
 }
 
 .clear{
@@ -146,10 +146,10 @@ h2{
 
 .self-intro h3{
     font-family:"Arial Black";
-    
+
     text-align: center;
-  
-    
+
+
 }
 span{
     font-family:"Arial Black";
@@ -158,12 +158,12 @@ span{
 
 .self-intro p{
     float:right;
-    
+
    max-width:1170px;
     width:58%;
     font-family:Arial;
-    letter-spacing: 0.5px;    
- 
+    letter-spacing: 0.5px;
+
 }
 
 .self-intro-top{
@@ -173,11 +173,11 @@ span{
 
 
 .work{
-   
+
     background-color: cornsilk;
-    
+
     color: sienna;
-    
+
 }
 
 
@@ -185,7 +185,7 @@ span{
 .work-history{
   text-align: center;
   font-family:Arial;
-  
+
 
 }
 
@@ -194,7 +194,7 @@ span{
     color:sienna;
     padding:40px 0;
     font-family:Arial;
-   
+
 }
 
 .fgn-history{
@@ -210,13 +210,13 @@ span{
     font-size:20px;
     text-align:center;
     color: sienna;
-    
+
 }
 .wide{
     max-width: 1170px;
     width:40%;
     padding:10px 30px;
-   
+
     border-radius: 3px;
     border:solid 0.5px sienna;
 }
@@ -226,7 +226,7 @@ span{
 textarea{
     max-width: 1170px;
     width:60%;
-   
+
     height:100px;
     font-size: 15px;
     border-radius: 3px;
@@ -260,21 +260,21 @@ textarea{
 }
 footer{
     font-size: 16px;
-  
-    
+
+
     background-color:sienna;
     color:cornsilk;
     font-family:"Arial Black";
     text-align: center;
-   
-   
-   
+
+
+
 }
 
 footer p{
     float:right;
     line-height:25px;
-    
+
 }
 .clear-footer{
     clear:both;
@@ -292,9 +292,9 @@ footer p{
 
 .self-intro,.work,.fgn,.contact-form p{
     font-size:18px;
-   
-   
-    
+
+
+
 }
 
 
